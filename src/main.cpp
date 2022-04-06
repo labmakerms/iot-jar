@@ -6,6 +6,6 @@ void setup() {
 }
 
 void loop() {
-  Serial.println("Hello LabMaker");
+  Serial.println("Hello LabMaker from MS");
   delay(1000);
 }
